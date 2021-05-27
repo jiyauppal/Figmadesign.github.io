@@ -1,0 +1,167 @@
+
+.img1 {
+    position: absolute;
+    top:0%;
+    right:0%;
+}
+#imag1{
+    position: relative;
+    width: 200vh;
+    max-height: 100%;
+}
+#img2{
+    position: absolute;
+    top:3.5vh;
+    right:14vh;
+    
+}
+
+#imag2{
+    position: relative;
+    width: 30vh;
+}
+.img3{
+    position: absolute;
+    top:10vh;
+    right:20vh;
+}
+#imag3{
+    position: relative;
+    width: 150vh;
+}
+.responsive{
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}   
+
+
+#menu{
+    position: absolute;
+    text-align: center;
+    color: white;
+    top:2vh;
+    right:50vh;
+    
+}
+  a {
+    display: inline-flex;
+    color: white;
+    text-decoration: none;
+  }
+  .item {
+    padding: 10px;
+    display: inline-block;
+    font-family: "montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 2vh;
+    color: white;
+    text-decoration: none;
+    max-width: 100%;
+    justify-content: center;
+    text-align: center;
+    padding-left: 10vh;
+  
+  }
+  body{
+    margin:0px;
+    padding: 0px;
+    overflow-x: hidden;
+  }
+  .text{
+    font-family: "montserrat", sans-serif;
+    font-size: 3.5vh;
+    position: relative;
+    top: 15vh;
+    left: 10vh;
+  }
+  .text2{
+    font-family: "montserrat", sans-serif;
+    font-size: 2.5vh;
+    position: relative;
+    color: #7F00FF;
+    font-weight: 600;
+    left: 10vh;
+    top: 15vh;
+  }
+  .text3{
+    font-family: "montserrat", sans-serif;
+    font-size: 2.5vh;
+    position: relative;
+    font-weight: 600;
+    left: 10vh;
+    top: 15vh;
+  }
+  .img4{
+    position: absolute;
+    left: 10vh;
+    top:64vh;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+.imag4{
+    position: relative;
+    width: 15vh;
+}
+.img5{
+    position: absolute;
+    top: 140vh;
+    max-width: 100%;
+    left: 0vh;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+
+}
+.imag5{
+    width: 90vh;
+    height: 50vh;
+    max-width: 100%;
+    
+
+}
+.text4{
+    font-family: "montserrat", sans-serif;
+    font-size: 3.5vh;
+    position: relative;
+    top: 97vh;
+    left: 120vh;
+    color: #7F00FF;
+}
+.text4 p{
+    color: black;
+    font-size: 2.2vh;
+}
+.img6{
+    position: absolute;
+    top: 200vh;
+    max-width: 100%;
+    left: 0vh;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+
+}
+.imag6{
+    width: 500vw;
+    height: 50vh;
+    max-width: 100%;
+    
+
+}
+.img7{
+    position: absolute;
+    top: 190vh;
+    max-width: 100%;
+    left: 4vh;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+
+}
+.imag7{
+    width: 20vw;
+    height: 45vh;
+    max-width: 100%;
+}
